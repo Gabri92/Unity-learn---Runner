@@ -1,10 +1,13 @@
 # Unity-learn---Runner
 
-Second prototype, made for the 'Unity learn' online series in which it is possible to move a character on the screen and shoot food to animals appearing on the screen, with the objective to feed all the appearing animals.
+Third prototype, made for the 'Unity learn' online series in which the main character has to run and avoid all the obstacles appearing on the screen.
 
 Functionalities implemented:
 
-Basic player control
-Random spawn of the animals
-Destruction of the object off-screen
-Collision events
+- Basic player control
+- Random spawn of the obstacles
+- Destruction of the object off-screen
+- Collision events
+- Force vector for jumping
+- Death and running animations
+- Particle and sound effects
